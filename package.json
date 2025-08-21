@@ -1,6 +1,6 @@
 {
   "name": "@libtommy2024/dolore-velit-perspiciatis-nisi",
-  "version": "17.52.417",
+  "version": "17.52.418",
   "description": "",
   "main": "index.js",
   "author": "OraliePham",
@@ -484,5 +484,5 @@
   "bugs": {
     "url": "https://github.com/libtommy2024/dolore-velit-perspiciatis-nisi/issues"
   },
-  "packageManager": "yarn@4.9.2"
+  "packageManager": "yarn@4.9.3"
 }
